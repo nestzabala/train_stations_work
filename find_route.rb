@@ -1,3 +1,4 @@
+require './train_router.rb'
 puts 'Specify the file path for the routes map'
 path = gets.chomp
 puts 'Insert the origin'
